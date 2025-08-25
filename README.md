@@ -1,6 +1,12 @@
+> **Note:** [`svg-icon-package@1.0.1`] is an old package. Strongly suggested to migrate to `svgr-react-icons`.
+
+---
+
 # svg-icon-package
 
 A simple and lightweight React package for displaying SVG icons with customizable size and color. Easily use SVGs as React components (via SVGR) or load them dynamically from URLs. Perfect for Vite and React projects!
+
+---
 
 ## Why Use This Package?
 
