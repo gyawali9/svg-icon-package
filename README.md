@@ -1,4 +1,4 @@
-> **Note:** [`svg-icon-package@1.0.1`] is an old package. Strongly suggested to migrate to `svgr-react-icons`.
+> **Note:** `svg-icon-package@1.0.1` is an old package. Strongly suggested to migrate to [`svgr-react-icons`](https://www.npmjs.com/package/svgr-react-icons).
 
 ---
 
